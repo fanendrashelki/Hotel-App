@@ -1,3 +1,22 @@
+![screencapture-localhost-3000-2023-03-25-21_34_46](https://user-images.githubusercontent.com/58651025/227757563-abd3349f-c5bc-4215-9c0e-4ee9c213452b.png)
+
+![screencapture-localhost-3000-details-The-Central-Park-Hotel-2023-03-25-21_35_02](https://user-images.githubusercontent.com/58651025/227757567-dacfcc3d-3013-4528-bcfe-f2a95dbeffe3.png)
+
+![screencapture-localhost-3000-Booking-2023-03-25-21_35_16](https://user-images.githubusercontent.com/58651025/227757572-a8deeb67-6e16-4bf4-9723-63d6f7a41835.png)
+
+
+
+
+![screencapture-localhost-3000-payment-2023-03-25-21_35_48](https://user-images.githubusercontent.com/58651025/227757583-80797224-f522-4acc-82d7-12c685eb0b0e.png)
+
+
+
+![screencapture-localhost-3000-payment-2023-03-25-21_36_02](https://user-images.githubusercontent.com/58651025/227757590-63672853-161d-45c1-a2d7-55e41a292b16.png)
+
+
+![screencapture-localhost-3000-payment-2023-03-25-21_36_32](https://user-images.githubusercontent.com/58651025/227757597-588a5a02-35ac-4bd0-906f-436223bf9c44.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
