@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Slab', serif;
+  color: #616161;
+}
+
+body {
+  background-color: #c6c6ec;
+}
+
+.card-box {
+  position: relative;
+  background-color: #eee6f6;
+  height: 500px;
+  border-radius: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  transform: scale(1);
+}
+
+.card-box:hover {
+  transform: scale(1.1);
+}
+
+.card img {
+  border-radius: 1rem 1rem 0 0;
+}
+
+.card-body {
+  border-radius: 10px;
+  position: absolute;
+  width: 90%;
+  height: 65%;
+  background-color: #fcfcfe;
+  top: -2%;
+  right: 50%;
+  transform: translate(50%, 50%);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.card_header h5 {
+
+  font-size: 1.2rem;
+}
+
+.card_header p {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.bi {
+  color: #8d8aed;
+}
+
+.fa-solid {
+  font-size: 1.4rem;
+  color: #8d8aed;
+}
+
+.btn-bg {
+  background-color: #898afe;
+  color: #ffffff;
+  font-weight: 600;
+  letter-spacing: 2px;
+  word-spacing: 1px;
+}
+.btn-bg:hover{
+  background-color: #cacaea;
+  color: #302e2c;
+  
+}
+
+.img-fluid{
+  height: 500px;
+}
+.desc{
+  padding: 10px 20px;
+  font-size: 1.5rem;
+  text-align: justify;
+  
+
+}
